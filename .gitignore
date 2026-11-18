@@ -1,0 +1,15 @@
+# Виртуальное окружение
+.venv/
+venv/
+env/
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+
+# Настройки PyCharm
+.idea/
+
+# Файлы системы
+.DS_Store
+Thumbs.db
