@@ -16,5 +16,5 @@
 ## 🚀 Как запустить
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/Nick648/название_репозитория.git
+   git clone https://github.com/Nick648/Banquet-Analyzer.git
    cd название_репозитория
